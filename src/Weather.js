@@ -80,10 +80,7 @@ export default function Weather() {
             </div>
           </div>
         </div>
-        <a
-          href=" https://github.com/jogit99/vanilla-weather-app-.git"
-          target="_blank"
-        >
+        <a href=" https://github.com/jogit99/my-app.git" target="_blank">
           Open-source code
         </a>
         by Jo
